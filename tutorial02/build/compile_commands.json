@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/qqh/project/Cplus/json-tutorial/tutorial02/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9    -ansi -pedantic -Wall -g   -o CMakeFiles/leptjson_test.dir/test.c.o   -c /home/qqh/project/Cplus/json-tutorial/tutorial02/test.c",
+  "file": "/home/qqh/project/Cplus/json-tutorial/tutorial02/test.c"
+},
+{
+  "directory": "/home/qqh/project/Cplus/json-tutorial/tutorial02/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9    -ansi -pedantic -Wall -g   -o CMakeFiles/leptjson.dir/leptjson.c.o   -c /home/qqh/project/Cplus/json-tutorial/tutorial02/leptjson.c",
+  "file": "/home/qqh/project/Cplus/json-tutorial/tutorial02/leptjson.c"
+}
+]
